@@ -1,6 +1,6 @@
-<div style="width: 100%; text-align:center">
-![Solyto Logo](https://raw.githubusercontent.com/solyto/assets/main/solyto_logo.png)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/solyto/assets/main/solyto_logo.png" width="200" />
+</p>
 
 # Solyto
 
