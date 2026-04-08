@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/solyto/assets/main/solyto_logo.png" width="200" />
+  <img src="https://raw.githubusercontent.com/solyto/assets/main/solyto_logo.png" />
 </p>
 
 # Solyto
