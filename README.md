@@ -2,13 +2,9 @@
   <img src="https://raw.githubusercontent.com/solyto/assets/main/solyto_logo.png" />
 </p>
 
-Solyto is a free, private, all-in-one personal management app — covering your todos, contacts, calendar, notes, news, music and book library in one place, with one login, and one coherent interface. No AI features, no tracking, no subscriptions, no bullshit. Use it on the web, install it as a PWA, or self-host it entirely on your own infrastructure. Built out of frustration with bloated tools, fragmented self-hosted stacks, and services that keep adding things you never asked for.
-
-
+solyto is a free, private, all-in-one personal management app — covering your todos, contacts, calendar, notes, news, music and book library in one place, with one login, and one coherent interface. No annoying AI features, no tracking, no subscriptions, no bullshit. Use it on the web, install it as a PWA, or self-host it entirely on your own infrastructure. Built out of frustration with bloated tools, fragmented self-hosted stacks, and services that keep adding things you never asked for.
 
 ---
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/solyto/assets/main/screenshots/landing-page.png" />
@@ -51,8 +47,6 @@ Solyto is a free, private, all-in-one personal management app — covering your 
 - Finance Tracking (Income / Wealth)
 
 - Clipboard (copy things from device to device)
-  
-  
 
 **Highlights**
 
@@ -73,22 +67,18 @@ Solyto is a free, private, all-in-one personal management app — covering your 
 - Dashboard combining all your data
 
 - Pomodoro Timer in the Time Tracking section
-  
-  
+
+- Progressive Web App - use on Desktop, Mobile or on your OS directly
 
 **Privacy & Security**
 
 - Solyto only contacts external services when you explicitly request it — for example when importing from Deezer or Goodreads. Nothing happens in the background without your knowledge
 - No tracking, no cookies (only one localStorage auth entry in your browser), no analytics
 - No bullshit. No features you don't need. No AI, no subscriptions.
-  
-  
 
 **Pricing**
 
 Solyto is free. Use it at [solyto.app](https://solyto.app), run it locally via our docker compose stack or selfhost it on your server via our Docker images.
-
-
 
 ****
 
@@ -144,11 +134,7 @@ If you are user, let us know your feedback! Are we missing a feature, is there a
 
 This repository is only meant as an overview.
 
-
-
 ---
-
-
 
 ## Licensing
 
