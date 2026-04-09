@@ -143,3 +143,15 @@ If you are a developer, a frontend designer or even a project manager, we are mo
 If you are user, let us know your feedback! Are we missing a feature, is there a bug? Happy to fix it!
 
 This repository is only meant as an overview.
+
+
+
+---
+
+
+
+## Licensing
+
+Solyto is licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) (AGPL-3.0).
+
+You are free to use, modify, and self-host this software. If you distribute it or run it as a network service, you must make your source code available under the same license.
