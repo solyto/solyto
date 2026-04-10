@@ -70,6 +70,8 @@ solyto is a free, private, all-in-one personal management app — covering your 
 
 - Progressive Web App - use on Desktop, Mobile or on your OS directly
 
+- Choose a theme - display solyto in a Skyrim theme, paper-like or as a over the top Atari version
+
 **Privacy & Security**
 
 - Solyto only contacts external services when you explicitly request it — for example when importing from Deezer or Goodreads. Nothing happens in the background without your knowledge
