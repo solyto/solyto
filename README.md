@@ -136,7 +136,7 @@ If you are user, let us know your feedback! Are we missing a feature, is there a
 
 This repository is only meant as an overview.
 
-[Discord](https://discord.gg/JbNPJHG6)
+[Discord](https://discord.gg/REyWQKgUcq)
 
 ---
 
