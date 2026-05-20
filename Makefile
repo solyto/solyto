@@ -19,3 +19,6 @@ start:
 
 stop:
 	cd localdocker && docker compose down
+
+restart:
+	make stop && make start
