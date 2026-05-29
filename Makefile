@@ -22,3 +22,6 @@ stop:
 
 restart:
 	make stop && make start
+
+build:
+	cd localdocker && docker compose build
